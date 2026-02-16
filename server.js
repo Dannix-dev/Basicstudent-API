@@ -171,5 +171,5 @@ app.delete("/api/v2/students/:id", async (req, res) => {
 
 
 app.listen(PORT, () => {
-    console.log(`server is running on http://localhost:${PORT}`)
+    console.log(`server is runnning on http://localhost:${PORT}`)
 });
